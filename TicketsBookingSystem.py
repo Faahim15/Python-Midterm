@@ -1,3 +1,4 @@
+import utils.session
 class Star_cinema:
     hall_list =[]
 
